@@ -47,6 +47,8 @@ curl -X POST http://localhost:4000/webhook -H "Content-Type: application/json" -
 
 
  My Approach
+
+ 
 1.Defined the Goal
 I started by understanding the core objective: simulate a GitHub activity tracker that displays real-time events like stars, issues, and pushes — using a React frontend and a backend that receives and stores webhook data.
 
